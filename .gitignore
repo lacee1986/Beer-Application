@@ -1,0 +1,6 @@
+cgi-bin
+.idea
+composer.lock
+composer.phar
+vendor
+.env

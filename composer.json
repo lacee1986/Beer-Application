@@ -1,0 +1,19 @@
+{
+  "name": "beer application",
+  "description": "This is a demo application",
+  "authors": [
+    {
+      "name": "Laszlo Kruchio"
+    }
+  ],
+  "require": {
+    "liamthegrey/brewerydb-php": "dev-master",
+    "phpunit/phpunit": "4.3.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Controllers\\": "Controllers/",
+      "Models\\": "Models/"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+h1 {margin:40px 0;}
+h2 {margin-bottom: 20px;}
+h5 {margin-bottom: 20px;}
+button {cursor: pointer;}
+#random-beer-container {padding: 20px; border:2px solid #999999; margin-bottom: 30px;}
+#search-header {margin-bottom: 30px;}
+#search-header .search_type {padding: 7px 0;}
+#search-header .search_type label {cursor:pointer; margin-right: 15px;}
+#search-results {margin-bottom: 30px;}
+.beer-holder {border-bottom:2px solid #999999; margin-bottom: 20px;}
+.beer-holder:first-child {border-top: 2px solid #999999; margin-top: 20px; padding-top: 20px;}
